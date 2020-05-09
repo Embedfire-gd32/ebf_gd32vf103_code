@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+encoding//SRC/Apps/GUI_Demo=UTF-8
+encoding//SRC/BSP/Board/YH_STM32F103/X_GUI_Drv/ILI9341_16Bit.c=UTF-8
+encoding//SRC/BSP/Board/unused/STM32F407_2/X_GUI_Drv/unused/ILI9341_16Bit.c=UTF-8
+encoding//SRC/BSP/Board/unused/YH_STM32F429/Board_Init.c=UTF-8
+encoding//SRC/BSP/Board/unused/YH_STM32F429/X_GUI_Drv/TouchDev_GT9xx.c=UTF-8
+encoding//SRC/BSP/Common/unused/USART/bsp_uart1.c=UTF-8
